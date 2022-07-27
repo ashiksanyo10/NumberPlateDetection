@@ -1,1 +1,1 @@
-# URL-Shortener using Pythonn library- pyshorteners
+# Basic URL-Shortener using Python library- pyshorteners
